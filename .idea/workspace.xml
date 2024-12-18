@@ -5,29 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c15bfe0-8c4d-4972-9a48-b5435693fa55" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_12_2024_08_53_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_12_2024_08_53__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Config-repo/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Config-repo/donationMS.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Config-repo/organisationMS-prod.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Config-repo/userMS.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/donationMS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-discovery" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway-service" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/organisationMS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userMS" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config-Server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Config-Server/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config-Server/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Config-Server/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eureka-discovery" beforeDir="false" afterPath="$PROJECT_DIR$/eureka-discovery" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway-service" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/organisationMS" beforeDir="false" afterPath="$PROJECT_DIR$/organisationMS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userMS" beforeDir="false" afterPath="$PROJECT_DIR$/userMS" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,7 +213,7 @@
       <workItem from="1734453693129" duration="9625000" />
       <workItem from="1734467520944" duration="5260000" />
       <workItem from="1734506396358" duration="4747000" />
-      <workItem from="1734512180542" duration="305000" />
+      <workItem from="1734512180542" duration="929000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -345,7 +327,23 @@
       <option name="project" value="LOCAL" />
       <updated>1734510087511</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1734512543440</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1734512543440</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1734512600172</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1734512600172</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
